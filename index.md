@@ -53,5 +53,27 @@ fun main() {
 }
 ```
 
+## Languages to start learning
+- [X] C
+- [X] Java
+- [X] Python
+- [X] JavaScript
+- [X] Bash
+- [X] Lua
+- [X] Kotlin
+- [X] SQL
+- [ ] Go
+- [ ] Rust
+- [ ] PHP
+- [ ] C++
+- [ ] Perl
+- [ ] Ruby
+- [ ] Haskell
+- [ ] Zig
+- [ ] C#
+- [ ] Clojure
+- [ ] OCaml
+- [ ] TypeScript
+
 ## I use linux!
 ![Image of Tux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
